@@ -1,0 +1,53 @@
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.peri{
+  margin-top: -30px;
+  height: 50px;
+  width: 50px;
+  background-size: cover;
+  margin-left: 120px;
+
+
+}
+.oko{
+  height: 100px;
+  width:300px;
+ 
+}
+.koi{
+  background-color: aqua;
+  height: 400px;
+  width: 300px;
+  position: relative;
+}
+.ori{
+  display: inline;
+  margin: 20px;
+}
+.ku{
+  font-size: large;
+  margin-left: 80px;
+}
+button{
+  width: 300px;
+  border-radius: 30px;
+  cursor: pointer;
+  background-color: chocolate;
+}
+.kata{
+  font-size: medium;
+}
